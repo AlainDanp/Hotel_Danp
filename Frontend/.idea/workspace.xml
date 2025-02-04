@@ -4,7 +4,195 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="be3b05a0-b9d2-4e9e-a266-4b0920778252" name="Changes" comment="" />
+    <list default="true" id="be3b05a0-b9d2-4e9e-a266-4b0920778252" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML &amp; CCS/About Page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML &amp; CCS/Chambre page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML &amp; CCS/Home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML &amp; CCS/Login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML &amp; CCS/Reservation Page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML &amp; CCS/Service Page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML &amp; CCS/carou.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML &amp; CCS/css/379773.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML &amp; CCS/css/Best-Luxury-Hotels-in-Manila-The-Excelsior-Hotel.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML &amp; CCS/css/carou.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML &amp; CCS/css/home.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML &amp; CCS/css/hotel.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML &amp; CCS/css/hotel2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML &amp; CCS/css/hotel3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML &amp; CCS/css/icons8-menu-50.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML &amp; CCS/css/image1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML &amp; CCS/css/login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML &amp; CCS/css/logo-hotel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML &amp; CCS/css/navbar-toggle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML &amp; CCS/image/45.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML &amp; CCS/image/andrew-neel-B4rEJ09-Puo-unsplash (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML &amp; CCS/image/ff.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML &amp; CCS/image/hammocks-umbrellas-placed-near-pool.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML &amp; CCS/image/img1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML &amp; CCS/image/img2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML &amp; CCS/image/img3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML &amp; CCS/image/img4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML &amp; CCS/image/img5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML &amp; CCS/image/img55.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML &amp; CCS/image/img6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML &amp; CCS/image/img6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML &amp; CCS/image/img7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML &amp; CCS/image/img8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML &amp; CCS/image/img88.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML &amp; CCS/image/img88d.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML &amp; CCS/image/img8dsd.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML &amp; CCS/image/img8dsqd.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML &amp; CCS/image/img9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML &amp; CCS/js/caroussel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML &amp; CCS/js/home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML &amp; CCS/js/login JS.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML &amp; CCS/js/navbar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/51676.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/about-us.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/bat/ReCaptcha/ReCaptcha.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/bat/ReCaptcha/RequestMethod.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/bat/ReCaptcha/RequestMethod/Curl.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/bat/ReCaptcha/RequestMethod/CurlPost.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/bat/ReCaptcha/RequestMethod/Post.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/bat/ReCaptcha/RequestMethod/Socket.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/bat/ReCaptcha/RequestMethod/SocketPost.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/bat/ReCaptcha/RequestParameters.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/bat/ReCaptcha/Response.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/bat/ReCaptcha/autoload.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/bat/phpmailer/PHPMailerAutoload.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/bat/phpmailer/class.phpmailer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/bat/phpmailer/class.pop3.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/bat/phpmailer/class.smtp.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/bat/rd-mailform.config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/bat/rd-mailform.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/bat/rd-mailform.tpl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/bat/rd-search.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/bat/reCaptcha.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/bat/twitter_api/config.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/bat/twitter_api/tweet.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/bat/twitter_api/twitteroauth/OAuth.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/bat/twitter_api/twitteroauth/twitteroauth.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/contacts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/css/fonts.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/fonts/bootstrap/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/fonts/bootstrap/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/fonts/bootstrap/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/fonts/bootstrap/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/fonts/bootstrap/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/fonts/fl-bigmug-line.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/fonts/fl-bigmug-line.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/fonts/fl-bigmug-line.svg___jb_tmp___" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/fonts/fl-bigmug-line.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/fonts/fl-bigmug-line.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/fonts/lg.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/fonts/lg.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/fonts/lg.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/fonts/lg.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/fonts/materialdesignicons-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/fonts/materialdesignicons-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/fonts/materialdesignicons-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/fonts/materialdesignicons-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/fonts/materialdesignicons-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/images/_blank.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/images/about-us-1-720x459.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/images/about-us-2-420x280.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/images/about-us-3-420x280.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/images/about-us-4-420x280.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/images/ajax-loader.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/images/banner/background-03-1920x310.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/images/banner/background-03-3840x620.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/images/banner/background-04-1920x60.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/images/banner/background-04-3840x120.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/images/banner/foreground-03-1600x310.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/images/banner/foreground-03-3200x620.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/images/banner/foreground-04-1600x60.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/images/banner/foreground-04-3200x120.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/images/blick-01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/images/breadcrumbs-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/images/breadcrumbs-decorate.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/images/breadcrumbs.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/images/divider-decorate.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/images/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/images/gmap_marker.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/images/gmap_marker_active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/images/handle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/images/ie8-panel/warning_bar_0000_us.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/images/isotope-loader.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/images/landing-private-airlines-01-570x370.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/images/landing-private-airlines-02-570x370.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/images/landing-private-airlines-03-570x370.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/images/landing-private-airlines-04-570x370.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/images/landing-private-airlines-05-570x370.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/images/landing-private-airlines-06-570x370.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/images/landing-private-airlines-7-570x415.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/images/landing-private-airlines-8-570x415.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/images/landing-private-airlines-9-570x415.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/images/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/images/logo-default-208x46.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/images/logo-inverse-208x46.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/images/preloader.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/images/preloader.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/images/project-1-1200x800-original.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/images/project-1-570x380.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/images/project-2-1200x800-original.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/images/project-2-570x380.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/images/project-3-1200x800-original.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/images/project-3-570x380.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/images/project-4-1200x800-original.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/images/project-4-570x380.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/images/project-5-1200x800-original.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/images/project-5-570x380.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/images/project-6-1200x800-original.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/images/project-6-570x380.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/images/quote-user-1-210x210.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/images/quote-user-2-210x210.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/images/quote-user-3-210x210.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/images/swiper-slide-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/images/swiper-slide-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/images/swiper-slide-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/images/team-07-300x300.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/images/team-08-300x300.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/images/team-09-300x300.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/images/team-10-300x300.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/images/team-11-380x380.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/images/team-12-300x300.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/images/team-13-300x300.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/images/team-14-300x300.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/images/team-15-300x300.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/images/typography-1-770x480.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/images/video-play.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/images/vimeo-play.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/images/volume.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/images/youtube-play.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/js/core.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/js/html5shiv.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/js/pointer-events.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/typography.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hotel/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/Hotel/angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hotel/node_modules/.package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Hotel/node_modules/.package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hotel/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Hotel/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hotel/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Hotel/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hotel/src/app/app-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Hotel/src/app/app-routing.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hotel/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/Hotel/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hotel/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Hotel/src/app/app.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hotel/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Hotel/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/login.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/login.js" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,32 +207,40 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2kbbNZzGUd6IVsbDqv4LxFVKxhA" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -53,7 +249,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1723555188044</updated>
-      <workItem from="1723555191539" duration="1334000" />
+      <workItem from="1723555191539" duration="2654000" />
+      <workItem from="1723906907496" duration="813000" />
+      <workItem from="1723990100990" duration="8659000" />
+      <workItem from="1724248237361" duration="15773000" />
+      <workItem from="1724618894466" duration="60000" />
+      <workItem from="1724681368646" duration="4560000" />
+      <workItem from="1724941883109" duration="28787000" />
+      <workItem from="1725121241651" duration="4334000" />
+      <workItem from="1725214531759" duration="2972000" />
+      <workItem from="1725273526975" duration="11204000" />
+      <workItem from="1725550483232" duration="796000" />
     </task>
     <servers />
   </component>

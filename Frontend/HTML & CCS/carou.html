@@ -1,0 +1,608 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home page</title>
+    <link href="https://cdn.jsdelivr.net/npm/remixicon@4.3.0/fonts/remixicon.css" rel="stylesheet">
+    <link href="https://unpkg.com/boxicons@2.1.1/css/boxicons.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/carou.css">
+    <link rel="stylesheet"  href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"/>
+    <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous" />
+    <link href="https://fonts.googleapis.com/css2?family=Material+Icons" rel="stylesheet">
+</head>
+<body>
+<!--<div id="loader"></div>-->
+<header>
+    <nav class="navbar">
+        <a href="#" class="logo">
+            <img src="css/logo-hotel.png" alt="DANPHOTEL Logo" class="logo-image">
+        </a>
+        <div class="nav-link">
+            <ul>
+                <li class="active"><a href="#">Home</a></li>
+                <li><a href="#">Chamber</a></li>
+                <li><a href="#">Reservation</a></li>
+                <li><a href="#">About us</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+        </div>
+        <a href="#" class="logo">
+            <span class="logoicone"><i class='bx bxs-user-circle'></i></span>
+        </a>
+        <img src="css/icons8-menu-50.svg" alt="menu" class="menu-hotel">
+    </nav>
+</header>
+
+<!-- carousel -->
+
+<div class="carousel" id="carousel" data-ride="carousel">
+    <!-- list item -->
+    <div class="list">
+        <div class="item">
+            <img src="image/img55.jpg">
+            <div class="content">
+                <div class="author">DANP HOTEL</div>
+                <div class="title">Moments de Convivialité</div>
+                <div class="topic">BAR</div>
+                <div class="des">
+                    <!-- lorem 50 -->
+                    Savourez des cocktails exquis et des moments inoubliables dans<br /> l'atmosphère cosy de notre bar, le lieu idéal pour se détendre.
+                </div>
+                <div class="buttons">
+                    <button>SEE MORE</button>
+                    <button>SUBSCRIBE</button>
+                </div>
+            </div>
+        </div>
+        <div class="item">
+            <img src="image/img8.jpg">
+            <div class="content">
+                <div class="author">DANP HOTEL</div>
+                <div class="title">Détente Aquatique</div>
+                <div class="topic">PISCINE</div>
+                <div class="des">
+                    Plongez dans notre piscine scintillante, entourée de verdure et de confortables chaises longues pour un moment de pure relaxation.
+                </div>
+                <div class="buttons">
+                    <button>SEE MORE</button>
+                    <button>SUBSCRIBE</button>
+                </div>
+            </div>
+        </div>
+        <div class="item">
+            <img src="image/ff.jpg">
+            <div class="content">
+                <div class="author">DANP HOTEL</div>
+                <div class="title">Confort et Élégance</div>
+                <div class="topic">CHAMBRE De LUXE</div>
+                <div class="des">
+                    Découvrez nos chambres spacieuses au design raffiné, offrant un cadre idéal pour se détendre après une longue journée.
+                </div>
+                <div class="buttons">
+                    <button>SEE MORE</button>
+                    <button>SUBSCRIBE</button>
+                </div>
+            </div>
+        </div>
+        <div class="item">
+            <img src="image/img6.jpg">
+            <div class="content">
+                <div class="author">DANP HOTEL</div>
+                <div class="title">Bienvenue à Votre Havre</div>
+                <div class="topic">Entrée De L'Hôtel</div>
+                <div class="des">
+                    Un accueil chaleureux vous attend dès votre arrivée, avec une entrée élégante
+                    <br />qui reflète l'esprit de notre hôtel
+                </div>
+                <div class="buttons">
+                    <button>SEE MORE</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- list thumnail -->
+    <div class="thumbnail">
+        <div class="item">
+            <img src="image/img6.jpg">
+            <div class="content">
+                <div class="title">
+                    Name Slider
+                </div>
+                <div class="description">
+                    Description
+                </div>
+            </div>
+        </div>
+        <div class="item">
+            <img src="image/img55.jpg">
+            <div class="content">
+                <div class="title">
+                    Name Slider
+                </div>
+                <div class="description">
+                    Description
+                </div>
+            </div>
+        </div>
+        <div class="item">
+            <img src="image/img8.jpg">
+            <div class="content">
+                <div class="title">
+                    Name Slider
+                </div>
+                <div class="description">
+                    Description
+                </div>
+            </div>
+        </div>
+        <div class="item">
+            <img src="image/ff.jpg">
+            <div class="content">
+                <div class="title">
+                    Name Slider
+                </div>
+                <div class="description">
+                    Description
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- next prev -->
+
+    <div class="arrows">
+        <button id="prev"><</button>
+        <button id="next">></button>
+    </div>
+    <!-- time running -->
+    <div class="time"></div>
+</div>
+
+    <a href="#" class="ui-to-top back-to-top" id="backToTop" title="Retour en Haut">
+        <span class="material-icons">arrow_upward</span>
+        <span class="scroll-percentage" id="scrollPercentage">0%</span>
+    </a>
+
+<section class="section__container destination__container" id="about">
+        <h2 class="section_header"> NOS DIFFERNET SERVICE</h2>
+        <p class="section_description">
+            Discover the most loved Destionations Around the WORd
+        </p>
+        <div class="container_grid">
+            <div class="container_card">
+                <img src="image/img88d.jpg" alt="bar">
+                <div class="hotel_details_exp">
+                    <div>
+                        <h4> Tradition and Futurism</h4>
+                        <p> New York City, USA</p>
+                    </div>
+                    <div class="destination-rating">
+                        <span><i class="ri-star-fill"></i></span>
+                        4.7
+                    </div>
+                </div>
+            </div>
+            <div class="container_card">
+                <img src="image/img5.jpg" alt="bar">
+                <div class="hotel_details_exp">
+                    <div>
+                        <h4> Tradition and Futurism</h4>
+                        <p> New York City, USA</p>
+                    </div>
+                    <div class="destination-rating">
+                        <span><i class="ri-star-fill"></i></span>
+                        4.7
+                    </div>
+                </div>
+            </div>
+            <div class="container_card">
+                <img src="image/img8dsd.jpg" alt="bar">
+                <div class="hotel_details_exp">
+                    <div>
+                        <h4> Tradition and Futurism</h4>
+                        <p> New York City, USA</p>
+                    </div>
+                    <div class="destination-rating">
+                        <span><i class="ri-star-fill"></i></span>
+                        4.7
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <h2 class="section_header"> Loved By Over Thousand Hotels home</h2>
+    <section class="wrapper top">
+        <div class="contary">
+            <div class="text">
+                <h2>Our Amenities</h2>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
+
+                <div class="contentent">
+                    <div class="box flex">
+                        <i class="fas fa-swimming-pool"></i>
+                        <span>Swimming pool</span>
+                    </div>
+                    <div class="box flex">
+                        <i class="fas fa-dumbbell"></i>
+                        <span>Gym & yogo</span>
+                    </div>
+                    <div class="box flex">
+                        <i class="fas fa-spa"></i>
+                        <span>Spa & massage</span>
+                    </div>
+                    <div class="box flex">
+                        <i class="fas fa-ship"></i>
+                        <span>Boat Tours</span>
+                    </div>
+                    <div class="box flex">
+                        <i class="fas fa-swimmer"></i>
+                        <span>Surfing Lessons</span>
+                    </div>
+                    <div class="box flex">
+                        <i class="fas fa-microphone"></i>
+                        <span>Conference room</span>
+                    </div>
+                    <div class="box flex">
+                        <i class="fas fa-water"></i>
+                        <span>Diving & smorking</span>
+                    </div>
+                    <div class="box flex">
+                        <i class="fas fa-umbrella-beach"></i>
+                        <span>Private Beach</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="section__container journey__container" id="tour">
+        <h2 class="section_header"> JOurney to the Sky Made Simple!</h2>
+        <p class="section_description">Efforless Planning for you Next Adventure</p>
+        <div class="journey_grid">
+            <div class="journey_card">
+                <div class="journey_card_bg">
+                    <span><i class='bx bxs-building-house'></i></span>
+                    <h4>Seamless Booking Process</h4>
+                </div>
+                <div class="journey_card_content">
+                    <span><i class='bx bxs-credit-card-alt'></i></span>
+                    <h4>Easy Resevation, One Click away</h4>
+                    <p>
+                        From Flights and accomodations to activities and transfert<br />
+                        everything you need is available at your fingertips, makings<br />
+                        plannubg effortless.
+                    </p>
+                </div>
+            </div>
+            <div class="journey_card">
+                <div class="journey_card_bg">
+                    <span><i class='bx bxs-bowl-hot'></i></span>
+                    <h4>Seamless Booking Process</h4>
+                </div>
+                <div class="journey_card_content">
+                    <span><i class='bx bxs-wine'></i></span>
+                    <h4>Easy Resevation, One Click away</h4>
+                    <p>
+                        From Flights and accomodations to activities and transfert<br />
+                        everything you need is available at your fingertips, makings<br />
+                        plannubg effortless.
+                    </p>
+                </div>
+            </div>
+            <div class="journey_card">
+                <div class="journey_card_bg">
+                    <span><i class='bx bxs-bed' ></i></span>
+                    <h4>Seamless Booking Process</h4>
+                </div>
+                <div class="journey_card_content">
+                    <span><i class='bx bx-phone'></i></span>
+                    <h4>Easy Resevation, One Click away</h4>
+                    <p>
+                        From Flights and accomodations to activities and transfert<br />
+                        everything you need is available at your fingertips, makings<br />
+                        plannubg effortless.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="section__container showcase_container" id="package">
+        <div class="showcase_image">
+            <img src="image/piscine.jpg">
+        </div>
+        <div class="showcase_content">
+            <h4>UNLEASH WANDERLUST WITH SKYWINGS</h4>
+            <p>
+                Bienvenue dans un monde de luxe inégalé et de raffinement absolu.
+                Notre hôtel 5 étoiles incarne l'élégance et le confort dans ses moindres détails, offrant à chaque visiteur une expérience unique et mémorable.
+                Niché dans un cadre pittoresque, l'hôtel allie architecture contemporaine et tradition pour créer un sanctuaire de sérénité au cœur de la ville.
+                Chacune de nos chambres spacieuses est conçue pour offrir un havre de paix, avec des équipements modernes, un mobilier somptueux et des vues imprenables sur les environs.
+                Que ce soit pour un séjour d'affaires ou de loisirs, notre personnel dévoué se consacre à répondre à tous vos besoins, en offrant un service personnalisé et discret.
+
+            </p>
+            <p>
+                Situé au cœur d'un cadre enchanteur, notre hôtel 5 étoiles allie luxe, confort et élégance pour offrir une expérience inoubliable à ses hôtes.
+                Chacune de nos chambres spacieuses est dotée d'équipements modernes, d'une décoration raffinée, et de vues imprenables sur des paysages magnifiques. Profitez de notre restaurant gastronomique,
+                de notre spa exclusif,
+                et de nos services personnalisés qui répondent aux moindres désirs de nos clients. Que vous soyez ici pour un séjour de détente ou un voyage d'affaires,
+                notre hôtel est le refuge idéal où chaque détail est pensé pour votre satisfaction absolue.
+            </p>
+            <div class="showcase_btn">
+                <button class="btn">
+                   Book A Hotel Now
+                    <span><i class="ri-arrow-right-line"></i> </span>
+                </button>
+            </div>
+        </div>
+    </section>
+    <section class="section__container banner_container">
+        <div class="banner_card">
+            <h4>10+</h4>
+            <p>Years Experience</p>
+        </div>
+        <div class="banner_card">
+            <h4>12k</h4>
+            <p>happy Clinets</p>
+        </div>
+        <div class="banner_card">
+            <h4> 4.7</h4>
+            <p>Overall Rattings</p>
+        </div>
+    </section>
+    <section class="about top" >
+        <div class="contary flex">
+            <div class="left">
+                <div class="img">
+                    <img src="image/img88d.jpg" alt="" class="image1">
+                    <img src="image/45.jpg" alt="" class="image2">
+                </div>
+            </div>
+            <div class="right">
+                <div class="heading">
+                    <h5 class="section_header">RAISING COMFOMRT TO THE HIGHEST LEVEL</h5>
+                    <h2 class="section_description">Welcome to Luviana Hotel Resort</h2>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
+                    <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                    <button class="btn">READ MORE</button>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="section__container discover_container">
+        <h2 class="section_header"> Discover THe workd From Above</h2>
+        <p class="section_description">
+            Experience Breathtaking Views and Unique Perspectives
+        </p>
+        <div class="discover_grid">
+            <div class="discover_card">
+                <span> <i class='bx bx-calendar-plus'></i></span>
+                <h4> Coastal Wonders</h4>
+                <p>
+                    Fly over pristine coastlines and turquoises waters, revaales coves and vibrant coral reefs.
+                </p>
+            </div>
+            <div class="discover_card">
+                <span><i class='bx bx-phone'></i></span>
+                <h4> Coastal Wonders</h4>
+                <p>
+                    Fly over pristine coastlines and turquoises waters, revaales coves and vibrant coral reefs.
+                </p>
+            </div>
+            <div class="discover_card">
+                <span> <i class='bx bxs-bell-ring'></i></span>
+                <h4> Coastal Wonders</h4>
+                <p>
+                    Fly over pristine coastlines and turquoises waters, revaales coves and vibrant coral reefs.
+                </p>
+            </div>
+        </div>
+    </section>
+
+        <div class="background  showcase_content">
+            <div class="content">
+                <h4 > NOS RETOURS </h4>
+                <p>Fly over pristine coastlines and turquoises waters, revaales coves and vibrant coral reefs.
+                    Situé au cœur d'un cadre enchanteur, notre hôtel 5 étoiles allie luxe, confort et élégance pour offrir une expérience inoubliable à ses hôtes.
+                    Chacune de nos chambres spacieuses est dotée d'équipements modernes, d'une décoration raffinée, et de vues imprenables sur des paysages magnifiques. Profitez de notre restaurant gastronomique,
+                    de notre spa exclusif,
+                    et de nos services personnalisés qui répondent aux moindres désirs de nos clients. Que vous soyez ici pour un séjour de détente ou un voyage d'affaires,
+                    notre hôtel est le refuge idéal où chaque détail est pensé pour votre satisfaction absolue.
+                </p>
+            </div>
+            <div class="buton">
+                <a href="#"> Read More</a>
+            </div>
+        </div>
+
+    <section class="section__container client_container">
+        <h2 class="section_header"> Loved By Over Thousand Hotels home</h2>
+        <p class="section_description">
+            Discover the storrie of wanderlust and cherished memories thought eyes of ours valued clients.
+        </p>
+        <div class="swiper">
+            <div class="swiper-wrapper">
+                <div class="swiper-slide">
+                    <div class="clinet_card">
+                        <div class="client-content">
+                            <div class="client_rating">
+                                <span> <i class='bx bxs-star'></i></span>
+                                <span> <i class='bx bxs-star'></i></span>
+                                <span> <i class='bx bxs-star'></i></span>
+                                <span> <i class='bx bxs-star'></i></span>
+                                <span> <i class='bx bxs-star'></i></span>
+                            </div>
+                            <p>
+                                Skywings has completely transformed my travel experience findif hiddent
+                                gems in bustling cities to discovering retreats off the beaten path, every
+                                detaitls was thoughs arrangd .I can't recommend Skywings enough for anymore to
+                                elevete their travel experience !
+                            </p>
+                        </div>
+                        <div class="client_details">
+                            <img src="image/client1.jpg" alt="client">
+                            <div>
+                                <h4>john Adams</h4>
+                                <h5>Client</h5>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="swiper-slide">
+                    <div class="clinet_card">
+                        <div class="client-content">
+                            <div class="client_rating">
+                                <span> <i class='bx bxs-star'></i></span>
+                                <span> <i class='bx bxs-star'></i></span>
+                                <span> <i class='bx bxs-star'></i></span>
+                                <span> <i class='bx bxs-star'></i></span>
+                                <span> <i class='bx bxs-star'></i></span>
+                            </div>
+                            <p>
+                                Skywings has completely transformed my travel experience findif hiddent
+                                gems in bustling cities to discovering retreats off the beaten path, every
+                                detaitls was thoughs arrangd .I can't recommend Skywings enough for anymore to
+                                elevete their travel experience !
+                            </p>
+                        </div>
+                        <div class="client_details">
+                            <img src="image/client2.jpg" alt="client">
+                            <div>
+                                <h4>john Adams</h4>
+                                <h5>Client</h5>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="swiper-slide">
+                    <div class="clinet_card">
+                        <div class="client-content">
+                            <div class="client_rating">
+                                <span> <i class='bx bxs-star'></i></span>
+                                <span> <i class='bx bxs-star'></i></span>
+                                <span> <i class='bx bxs-star'></i></span>
+                                <span> <i class='bx bxs-star'></i></span>
+                                <span> <i class='bx bxs-star'></i></span>
+                            </div>
+                            <p>
+                                Skywings has completely transformed my travel experience findif hiddent
+                                gems in bustling cities to discovering retreats off the beaten path, every
+                                detaitls was thoughs arrangd .I can't recommend Skywings enough for anymore to
+                                elevete their travel experience !
+                            </p>
+                        </div>
+                        <div class="client_details">
+                            <img src="image/client3.jpg" alt="client">
+                            <div>
+                                <h4>john Adams</h4>
+                                <h5>Client</h5>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="swiper-slide">
+                    <div class="clinet_card">
+                        <div class="client-content">
+                            <div class="client_rating">
+                                <span> <i class='bx bxs-star'></i></span>
+                                <span> <i class='bx bxs-star'></i></span>
+                                <span> <i class='bx bxs-star'></i></span>
+                                <span> <i class='bx bxs-star'></i></span>
+                                <span> <i class='bx bxs-star'></i></span>
+                            </div>
+                            <p>
+                                Skywings has completely transformed my travel experience findif hiddent
+                                gems in bustling cities to discovering retreats off the beaten path, every
+                                detaitls was thoughs arrangd .I can't recommend Skywings enough for anymore to
+                                elevete their travel experience !
+                            </p>
+                        </div>
+                        <div class="client_details">
+                            <img src="image/client4.jpg" alt="client">
+                            <div>
+                                <h4>john Adams</h4>
+                                <h5>Client</h5>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="map top">
+        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d14131.036667732067!2d85.32395955!3d27.69383745!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2snp!4v1637755481449!5m2!1sen!2snp" width="100%" height="450" style="border:0;"
+                allowfullscreen="" loading="lazy"></iframe>
+    </section>
+    <footer id="contact">
+        <div class="section__container footer_container">
+            <div class="footer_col">
+                <a href="#" class="logo">
+                    <img src="css/logo-hotel.png" alt="DANPHOTEL Logo" class="logo-image">
+                </a>
+            <p>
+                Explore the world with ease excitement through our compter traverl platform.
+                Your journey begins here, where seamless past meets unforgettable expericens.
+            </p>
+            <ul class="footer_social">
+                <li>
+                    <a href="#" ><i class='bx bxl-facebook'></i></a>
+                </li>
+                <li>
+                    <a href="#" ><i class='bx bxl-instagram' ></i></a>
+                </li>
+                <li>
+                    <a href="#" ><i class='bx bxl-youtube' ></i></a>
+                </li>
+            </ul>
+        </div>
+            <div class="footer_col">
+                <h4>Quick Links</h4>
+                <ul class="footer_links">
+                    <li><a href="#">Chamber</a></li>
+                    <li><a href="#">Reservation</a></li>
+                    <li><a href="#">About us</a></li>
+                    <li><a href="#">Contact</a></li>
+                </ul>
+            </div>
+            <div class="footer_col">
+                <h4> Contact US</h4>
+                <ul class="footer_links">
+                    <li>
+                        <a href="#">
+                        <span><i class='bx bxs-phone'></i></span> +237 691 73 17 85
+                    </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                        <span><i class='bx bx-voicemail'></i></span> alain.datouo@gmail.com
+                    </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                        <span><i class='bx bxs-map'></i></span> Ngousso, Yaoundé, Cameroon
+                    </a>
+                    </li>
+                </ul>
+            </div>
+            <div class="footer_col">
+                <h4>Subscribe</h4>
+                <form action="/">
+                    <input type="text" placeholder="Enter your email">
+                    <button class="btn"> Subscribe</button>
+                </form>
+            </div>
+        </div>
+        <div class="footer_bar">
+            Copyright 2024 web Design Mastery | All right reserverd
+        </div>
+    </footer>
+
+
+
+<script src="https://unpkg.com/scrollreveal"></script>
+<script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+<script src="js/caroussel.js"></script>
+<script src="js/navbar.js"></script>
+<script src="js/home.js"></script>
+
+</body>
+</html>
